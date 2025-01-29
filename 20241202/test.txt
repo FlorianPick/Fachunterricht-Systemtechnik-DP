@@ -1,0 +1,7 @@
+Erste ZeileZweite Zeile
+Längerer Text
+mit Zeilenumbruch
+als DocstringVierte ZeileLängerer Text
+mit Zeilenumbruch
+als Docstring
+Vierte ZeileVierte Zeile	Vierte Zeile

@@ -1,0 +1,5 @@
+Zahl:String:Tupel:Text
+1:'a':(2,3):'Text1'
+2:'x':(4,5):'Text2'
+3:'c':(8,9):'Text3'
+4:'k':(7,8):'Text4'
